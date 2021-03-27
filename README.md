@@ -15,7 +15,7 @@
 | Platform | Fees | Country | Balance currencies | Withdrawal currencies | Withdrawal to | Notes |
 | ---- | --- | ---- | ---- | ---- | ---- |---- |
 | Upwork | | | | | | |
-| Fiverr | Not disclosed | | | | | |
+| Fiverr | 20% | | | | | |
 | StackOverflow | | | | | | |
 | GitHub | | | | | | |
 | CodeMentor | | | | | | Requires W8-BEN IRS form |
