@@ -10,6 +10,8 @@
 - Country the platform operates from (and is bound to the laws of that country. E.g. US platforms ask you to fill in IRS tax form which might be unknow to you if you are outside the US)
 - Official documents needed to open the account or do first withdrawal 
 
+(Help needed to fill-in this table)
+
 | Platform | Fees | Country | Balance currencies | Withdrawal currencies | Withdrawal to | Notes |
 | ---- | --- | ---- | ---- | ---- | ---- |---- |
 | Upwork | | | | | | |
