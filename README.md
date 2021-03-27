@@ -13,7 +13,7 @@
 | Platform | Fees | Country | Balance currencies | Withdrawal currencies | Withdrawal to | Notes |
 | ---- | --- | ---- | ---- | ---- | ---- |---- |
 | Upwork | | | | | | |
-| Fiverr | | | | | | |
+| Fiverr | Not disclosed | | | | | |
 | StackOverflow | | | | | | |
 | GitHub | | | | | | |
 | Freelancer.com | | | | | | [Beware of issues like this](https://dev.to/chrisdunne/dont-use-freelancercom-hfj) |
