@@ -18,4 +18,5 @@
 | Fiverr | Not disclosed | | | | | |
 | StackOverflow | | | | | | |
 | GitHub | | | | | | |
+| CodeMentor | | | | | | |
 | Freelancer.com | | | | USD | | [Beware of issues like this](https://dev.to/chrisdunne/dont-use-freelancercom-hfj) |
