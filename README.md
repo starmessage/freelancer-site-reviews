@@ -1,4 +1,4 @@
-# How to select a freelancer site as a freelancer developer
+# How to select which freelancer site to use as a freelancer developer
 
 ## Criteria for selecting which freelances site to use when selling your services as a developer
 - Commission/fees withleld by the platform
