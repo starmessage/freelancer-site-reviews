@@ -24,4 +24,4 @@
 | Freelancer.com | 10% (Min $5) | | | USD | | [Beware of issues like this](https://dev.to/chrisdunne/dont-use-freelancercom-hfj) |
 
 ## Resouces
-[Freelancer forum at stackexchange](https://freelancing.stackexchange.com/)
+- [Freelancer forum at stackexchange](https://freelancing.stackexchange.com/)
