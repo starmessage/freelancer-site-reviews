@@ -14,7 +14,7 @@
 
 | Platform | Fees | Country | Balance currencies | Withdrawal currencies | Withdrawal to | Notes |
 | ---- | --- | ---- | ---- | ---- | ---- |---- |
-| Upwork | 20% for the first $500 per customer | | | |     Direct Deposit / ACH<br/>PayPal<br/>Wire Transfer<br/>Local Funds Transfer (LFT)<br/>Payoneer | |
+| Upwork | 20% for the first $500 per customer | | | |     Direct Deposit / ACH<br/>PayPal<br/>Wire Transfer<br/>Local Funds Transfer (LFT)<br/>Payoneer | Invoicing and payments via Upwork  |
 | Fiverr | 20% | | | | | |
 | StackOverflow | | | | | | |
 | GitHub | | | | | | |
