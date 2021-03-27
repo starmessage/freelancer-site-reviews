@@ -12,6 +12,8 @@
 
 (Help needed to fill-in this table)
 
+## Freelancing platforms comparison table
+
 | Platform | Fees | Country | Balance currencies | Withdrawal currencies | Withdrawal to | Notes |
 | ---- | --- | ---- | ---- | ---- | ---- |---- |
 | Upwork | 20% for the first $500 per customer | | | |     Direct Deposit / ACH<br/>PayPal<br/>Wire Transfer<br/>Local Funds Transfer (LFT)<br/>Payoneer | Invoicing and payments via Upwork  |
@@ -20,3 +22,6 @@
 | GitHub | | | | | | |
 | CodeMentor | | | | | | Requires W8-BEN IRS form |
 | Freelancer.com | 10% (Min $5) | | | USD | | [Beware of issues like this](https://dev.to/chrisdunne/dont-use-freelancercom-hfj) |
+
+## Resouces
+[Freelancer forum at stackexchange](https://freelancing.stackexchange.com/)
