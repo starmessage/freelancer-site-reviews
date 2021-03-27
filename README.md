@@ -19,4 +19,4 @@
 | StackOverflow | | | | | | |
 | GitHub | | | | | | |
 | CodeMentor | | | | | | Requires W8-BEN IRS form |
-| Freelancer.com | | | | USD | | [Beware of issues like this](https://dev.to/chrisdunne/dont-use-freelancercom-hfj) |
+| Freelancer.com | 10% (Min $5) | | | USD | | [Beware of issues like this](https://dev.to/chrisdunne/dont-use-freelancercom-hfj) |
