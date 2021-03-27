@@ -18,5 +18,5 @@
 | Fiverr | Not disclosed | | | | | |
 | StackOverflow | | | | | | |
 | GitHub | | | | | | |
-| CodeMentor | | | | | | |
+| CodeMentor | | | | | | Requires W8-BEN IRS form |
 | Freelancer.com | | | | USD | | [Beware of issues like this](https://dev.to/chrisdunne/dont-use-freelancercom-hfj) |
